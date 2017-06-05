@@ -1,8 +1,8 @@
 {
-  "name": "css-diff-tool",
+  "name": "css-diff",
   "version": "0.0.1",
   "description": "Tool for calculating differences between two css files",
-  "main": "cssDiff.js",
+  "main": "index.js",
   "author": "Alex Gurr",
   "license": "",
   "dependencies": {
